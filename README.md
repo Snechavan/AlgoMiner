@@ -1,5 +1,6 @@
 # AlgoMiner
 AlgoMiner is a versatile data mining application designed to simplify and implement a range of powerful machine learning algorithms, including:
+
  *K-Nearest Neighbors (KNN)
  *K-Means Clustering
  *Decision Tree
